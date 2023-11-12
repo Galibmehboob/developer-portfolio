@@ -15,7 +15,7 @@ h2 {
     color: blue;
 }
 
-section {
+.flexible-container {
     display: flex;
     margin-bottom: 150px;
 }
